@@ -9,8 +9,8 @@ function to1() {
 
 	function ans()
 	{
-		if(input.value == "시작")
-			location.href="./code_page/page1_start.html";
+		if(input.value == "아이시테루")
+			location.href="./code_page/page01_start.html";
 		else
 		{
 			input.style.animation='shake 0.5s';

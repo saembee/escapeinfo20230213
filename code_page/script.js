@@ -9,7 +9,7 @@ function to1() {
 
 	function ans()
 	{
-		if(input.value == "아이시테루")
+		if(input.value == "あいしてる")
 			location.href="./code_page/page01_start.html";
 		else
 		{
